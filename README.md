@@ -1,8 +1,8 @@
 ### Hi my name is Nursultan
 
 <p>
-<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="70" height="70"/>&nbsp;&nbsp;&nbsp; 
-<img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="70" height="70"/>&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML" alt="HTML" width="70" height="70"/>&nbsp;&nbsp;&nbsp; 
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Javascript" alt="Javascript" width="70" height="70"/>&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="postgresql"  alt="postgresql" width="70" height="70"/>&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React"  alt="React" width="70" height="70"/>&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/phoenix/phoenix-original-wordmark.svg" title="phoenix"  alt="phoenix" width="70" height="70"/>&nbsp;&nbsp;&nbsp;
