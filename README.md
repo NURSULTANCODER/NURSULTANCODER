@@ -1,15 +1,5 @@
 ### Hi my name is Nursultan
 
-<style>
-p {
-color: red;
-}
-</style>
-<div>
-<p>gdfgdfgdfg</p>
-</div>
-
-
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="70" height="70"/>&nbsp;&nbsp;&nbsp; 
 <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="70" height="70"/>&nbsp;&nbsp;&nbsp;
