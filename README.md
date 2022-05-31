@@ -6,7 +6,7 @@
     
     ## 🙃 My contact information
     
-    <div align="left">
+  <div align="left">
         <a href="https://www.linkedin.com/in/nursultan-chynarbek-uulu/"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png"
             alt="alt text" width="50" height="50" border="10"/></a>
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
