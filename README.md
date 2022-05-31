@@ -2,9 +2,9 @@
 
 ## I'm Frontend Developer
     
-    ---
+---
     
-    ## 🙃 My contact information
+## 🙃 My contact information
     
   <div align="left">
         <a href="https://www.linkedin.com/in/nursultan-chynarbek-uulu/"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png"
@@ -17,9 +17,9 @@
             alt="alt text" width="50" height="50" border="10"/></a>
     </div>
     
-    ### nursultanchynarbek02@gmail.com
+ ### nursultanchynarbek02@gmail.com
     
-    ---
+ ---
 
 ## 🛠 &nbsp;Languages and Tools :
  <p>
